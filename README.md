@@ -25,19 +25,19 @@
 
 ### Core Deployments & Architecture Portfolio
 
-#### 🌟 EnerSaviyor Platform — Co-Founder & Chief Data Scientist
+####  EnerSaviyor Platform — Co-Founder & Chief Data Scientist
 *An AI-powered Energy Intelligence Platform transforming half-hourly electricity consumption data into actionable business intelligence.*
 * **Night Waste & Anomaly Engines:** Engineered continuous time-series consumption analysis using statistical modeling to automatically flag baseline drift, consumption spikes, and peak demand breaches.
 * **Granular Intelligence Mapping:** Built data pipelines quantifying multi-dimensional impact metrics, computing exact cost (£), energy (kWh), and carbon metrics per incident alongside AI-generated root cause analyses.
 * **White-Label Reporting Pipeline:** Architected automated, enterprise-ready Operational and ESG/Carbon Compliance generation architectures for institutional stakeholders.
 
-#### 🤖 Grid Interconnection Automation Agent (NEXUS Architecture)
+####  Grid Interconnection Automation Agent (NEXUS Architecture)
 *A secure, multi-agent AI system designed to compress standard 5–10 year manual regulatory grid studies into accelerated, automated workflows.*
 * **Multi-Agent Orchestration:** Deployed a supervised multi-agent pipeline (Scout, Validator, Simulator, Strategist, Drafter) to ingest Single Line Diagrams (SLD) and extract deeply structured tariff parameters.
 * **Physics Engine Aggregation:** Designed structural input translation wrappers mapped to industry-standard grid engines (ETAP/PSCAD) for power-flow simulation parsing.
 * **Deterministic Generation:** Formulated an automated report compiler executing traceable page-level document citations across major energy markets (PJM, ERCOT, CAISO, UK NESO).
 
-#### 📈 Revenue Resurrection Intelligence Agent
+####  Revenue Resurrection Intelligence Agent
 *A multi-source enterprise Revenue Intelligence Engine engineered specifically to isolate hidden fiscal leakages across commercial energy portfolios.*
 * **Heterogeneous Data Fusion:** Developed an ingestion framework monitoring 8 distinct operational data streams simultaneously (Email APIs, CRM webhooks, structured proposals, audit PDFs, and web-scraped tender databases).
 * **Client Health Scoring Engine:** Implemented deterministic logic mapping time-since-contact, historical consumption patterns, and shifting government rebate databases into highly-prioritized pipeline actions.
@@ -47,6 +47,6 @@
 
 ### Institutional & Corporate Alignment
 
-* 💼 **Venture Inquiries:** Open to discussions regarding B2B SaaS deployments, pilot energy integrations, and technical partnerships.
-* 🎓 **Academic Profile:** Mathematics and Data Science at COMSATS University Islamabad.
-* 🌐 **Professional Network:** Verification and corporate updates available via [LinkedIn](https://www.linkedin.com/in/maryamikram).
+*  **Venture Inquiries:** Open to discussions regarding B2B SaaS deployments, pilot energy integrations, and technical partnerships.
+*  **Academic Profile:** Mathematics and Data Science at COMSATS University Islamabad.
+*  **Professional Network:** Verification and corporate updates available via [LinkedIn](https://www.linkedin.com/in/maryamikram).
