@@ -31,7 +31,7 @@
 * **Granular Intelligence Mapping:** Built data pipelines quantifying multi-dimensional impact metrics, computing exact cost (£), energy (kWh), and carbon metrics per incident alongside AI-generated root cause analyses.
 * **White-Label Reporting Pipeline:** Architected automated, enterprise-ready Operational and ESG/Carbon Compliance generation architectures for institutional stakeholders.
 
-####  Grid Interconnection Automation Agent (NEXUS Architecture)
+####  Grid Interconnection Automation Agent 
 *A secure, multi-agent AI system designed to compress standard 5–10 year manual regulatory grid studies into accelerated, automated workflows.*
 * **Multi-Agent Orchestration:** Deployed a supervised multi-agent pipeline (Scout, Validator, Simulator, Strategist, Drafter) to ingest Single Line Diagrams (SLD) and extract deeply structured tariff parameters.
 * **Physics Engine Aggregation:** Designed structural input translation wrappers mapped to industry-standard grid engines (ETAP/PSCAD) for power-flow simulation parsing.
