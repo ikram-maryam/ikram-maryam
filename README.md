@@ -18,23 +18,30 @@
 | :--- | :--- |
 | **Data Engineering & ML** | Python, SQL, NumPy, Pandas, Scikit-Learn, Predictive Analytics |
 | **Mathematical Modeling** | Multivariable Calculus, Advanced Statistical Modeling, Discrete Mathematics, Propositional Logic |
-| **Systems Architecture** | Asynchronous Automation Frameworks, Micro AI Agents, Market Half-Hourly Settlement (MHHS) Engines |
-| **Infrastructure & Tools** | PyCharm IDE, Git Version Control, GitHub Actions CI/CD Pipelines |
+| **Systems Architecture** | Asynchronous Automation Frameworks, Multi-Agent AI Systems, Regulatory Parsing, Telemetry Engineering |
+| **Infrastructure & Tools** | PyCharm IDE, Git Version Control, Supabase, React, Tailwind CSS |
 
 ---
 
 ### Core Deployments & Architecture Portfolio
 
 #### 🌟 EnerSaviyor Platform — Co-Founder & Chief Data Scientist
-*An enterprise-grade energy technology platform deploying intelligent automation architectures to optimize power grids.*
-* **EV Micro AI Agent:** Engineered a localized AI engine managing distributed energy resources and automated load forecasting.
-* **MHHS Automation Engine:** Developed backend software subsystems mapped to Market Half-Hourly Settlement frameworks to isolate real-time grid spikes and systematically mitigate night waste anomalies.
-* **Analytical Pipeline:** Architected automated, white-label reporting pipelines delivering granular utility insights directly to institutional stakeholders.
+*An AI-powered Energy Intelligence Platform transforming half-hourly electricity consumption data into actionable business intelligence.*
+* **Night Waste & Anomaly Engines:** Engineered continuous time-series consumption analysis using statistical modeling to automatically flag baseline drift, consumption spikes, and peak demand breaches.
+* **Granular Intelligence Mapping:** Built data pipelines quantifying multi-dimensional impact metrics, computing exact cost (£), energy (kWh), and carbon metrics per incident alongside AI-generated root cause analyses.
+* **White-Label Reporting Pipeline:** Architected automated, enterprise-ready Operational and ESG/Carbon Compliance generation architectures for institutional stakeholders.
 
-#### ⚡ [GridPulse](https://github.com/ikram-maryam/GridPulse) — Core Developer
-*An algorithmic framework designed to process, model, and analyze live telemetry data streams for complex electrical grid systems.*
-* **Mathematical Optimization:** Implemented vectorization methods to handle matrix transformations of high-frequency data streams.
-* **Data Processing Overhead:** Optimized state machine data cleaning operations using NumPy and Pandas to ensure low-overhead runtime execution.
+#### 🤖 Grid Interconnection Automation Agent (NEXUS Architecture)
+*A secure, multi-agent AI system designed to compress standard 5–10 year manual regulatory grid studies into accelerated, automated workflows.*
+* **Multi-Agent Orchestration:** Deployed a supervised multi-agent pipeline (Scout, Validator, Simulator, Strategist, Drafter) to ingest Single Line Diagrams (SLD) and extract deeply structured tariff parameters.
+* **Physics Engine Aggregation:** Designed structural input translation wrappers mapped to industry-standard grid engines (ETAP/PSCAD) for power-flow simulation parsing.
+* **Deterministic Generation:** Formulated an automated report compiler executing traceable page-level document citations across major energy markets (PJM, ERCOT, CAISO, UK NESO).
+
+#### 📈 Revenue Resurrection Intelligence Agent
+*A multi-source enterprise Revenue Intelligence Engine engineered specifically to isolate hidden fiscal leakages across commercial energy portfolios.*
+* **Heterogeneous Data Fusion:** Developed an ingestion framework monitoring 8 distinct operational data streams simultaneously (Email APIs, CRM webhooks, structured proposals, audit PDFs, and web-scraped tender databases).
+* **Client Health Scoring Engine:** Implemented deterministic logic mapping time-since-contact, historical consumption patterns, and shifting government rebate databases into highly-prioritized pipeline actions.
+* **Autonomous Quote Refreshing:** Programmed background data workers that match historical expired quote arrays with newly announced subsidies to dynamically update macro client savings.
 
 ---
 
